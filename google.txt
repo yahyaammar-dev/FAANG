@@ -1,0 +1,196 @@
+basic introduction from programiz
+	https://www.programiz.com/dsa/data-structure-types#:~:text=Data%20structure%20is%20a%20storage,data%20structure%20for%20your%20project.
+	
+
+
+
+bitwise, bit magic
+
+
+Recursion
+
+
+Arrays
+
+
+
+Linked List
+	Single Linkedlist
+	Doubly Linkedlist
+	Circular Linkedlist
+	Circular doubley linkedlist
+	skiplist 
+
+
+Stacks
+	array implementation
+	linkedlist implemenatation
+
+
+Queues
+	circular queue
+	prioity queue 
+	double ended queue
+	
+
+
+Hashtable
+
+
+
+
+Tree
+	Binary Search Tree
+	Binary Tree
+	Full Binary Tree
+	Perfect Binary Tree
+	Complete Binary Tree
+	Balanced Binary Tree
+	AVL Tree	
+	B Tree
+	B+ Tree
+	Red-Black Tree
+	Splay tree
+	preorder
+	postorder
+	inorder
+
+
+
+Heap
+	Min heap
+	Max heap
+	Fibonacci Heap
+
+
+Graphs
+	Driected grapgh 
+	Undirected grapgh
+	Spanning Tree
+	Strongly Connected Components
+	Adjacency Matrix
+	Adjacency List
+	DFS Algorithm
+	Breadth-first Search
+	Bellman Ford's Algorithm
+	
+
+
+
+Trie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithms
+
+
+
+
+
+
+Sorting and Searching Algorithms
+	Bubble Sort
+	Selection Sort
+	Insertion Sort
+	Merge Sort
+	Quicksort
+	Counting Sort
+	Radix Sort
+	Bucket Sort
+	Heap Sort
+	Shell Sort
+	Linear Search
+	Binary Search
+	Comb Search
+	Bitonic Sort
+	Cocktail Sort
+	Cycle Sort
+	Tim Sort
+
+
+
+
+
+Greedy Algorithms
+	Greedy Algorithm
+	Ford-Fulkerson Algorithm
+	Dijkstra's Algorithm
+	Kruskal's Algorithm
+	Prim's Algorithm
+	Huffman Coding
+
+
+
+Dynamic Programming
+	Floyd-Warshall Algorithm
+	Longest Common Sequence
+
+
+
+	Backtracking Algorithm
+	Rabin-Karp Algorithm
+
+
+
+
+
+
+
+
+
+After implemenating the basics:
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/?ref=lbp
+
+
+
+
+
+https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ
+
+
+
+
+
+
+geeks for geeks medium and hard problems
+
+
+
+
+learn architecture and design
+
+
+
+behavioural questions
+
+
+
+mock interviews
+
+
+
